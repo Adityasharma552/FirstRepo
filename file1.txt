@@ -1,2 +1,48 @@
-Hello World 
+Last login: Thu Jan 16 20:26:01 on console
+rajesh@Rajeshs-MacBook-Air ~ % git init
+Reinitialized existing Git repository in /Users/rajesh/.git/
+rajesh@Rajeshs-MacBook-Air ~ % cd/users/rajesh
+zsh: no such file or directory: cd/users/rajesh
+rajesh@Rajeshs-MacBook-Air ~ % git add file1.txt
+rajesh@Rajeshs-MacBook-Air ~ % nano file1.txt
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  UW PICO 5.09                        File: file1.txt                           
+
+Hello World
 My name is Aditya.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+^G Get Help  ^O WriteOut  ^R Read File ^Y Prev Pg   ^K Cut Text  ^C Cur Pos   
+^X Exit      ^J Justify   ^W Where is  ^V Next Pg   ^U UnCut Text^T To Spell  
