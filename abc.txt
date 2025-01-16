@@ -1,0 +1,48 @@
+Last login: Thu Jan 16 21:47:22 on ttys000
+rajesh@Rajeshs-MacBook-Air ~ % touch abc.txt
+rajesh@Rajeshs-MacBook-Air ~ % nano abc.txt
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  UW PICO 5.09                     File: abc.txt                      Modified  
+
+Hello World
+My name is Aditya . I am a dev ops engineer
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+^G Get Help  ^O WriteOut  ^R Read File ^Y Prev Pg   ^K Cut Text  ^C Cur Pos   
+^X Exit      ^J Justify   ^W Where is  ^V Next Pg   ^U UnCut Text^T To Spell  
